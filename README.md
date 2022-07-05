@@ -1,4 +1,4 @@
-# IntProgramacionProyectoFinal
+Proyecto Final - Introduccion a la Programacion - Tecnicatura en Programacion, Universidad Austral
 
 Nuestro proyecto final para la materia Introduccion a la Programacion, consiste en un programa cuyo fin es permitir al usuario guardar sus contraseñas de manera segura. 
 
